@@ -7,3 +7,6 @@
 
 ### App User Flow Walkthrough
 * D 2:
+
+### Tech Stack
+* D 3:
