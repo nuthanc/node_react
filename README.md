@@ -19,3 +19,13 @@
 
 ### Application Architecture
 * D 4:
+
+### Relationship between Node and Express
+* mkdir server and cd into it
+* npm init
+* Diagram Link: https://www.draw.io/?mode=github#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FStephenGrider%2FFullstackReactCode%2Fmaster%2Fdiagrams%2F02%2Fdiagrams.xml
+* D 0-Node-vs-Express:
+* D 0-ex: **Flow of Node and Express**
+
+
+
