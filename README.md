@@ -27,5 +27,14 @@
 * D 0-Node-vs-Express:
 * D 0-ex: **Flow of Node and Express**
 
-
+### Generating Express Apps
+* Create index.js inside server dir
+* Using commonjs module system as it's not available in node 
+* If you want to use new features, follow this link
+* https://www.codementor.io/@iykyvic/writing-your-nodejs-apps-using-es6-6dh0edw2o
+* Calling express as a function generates a New application that represents a running Express App
+* get and listen methods in index.js
+* node index.js
+* It appears as hanging
+* Navigate to localhost:5000
 
