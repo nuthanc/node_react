@@ -16,3 +16,6 @@
 * D 10:
 * D 12:
 * D 11:
+
+### Application Architecture
+* D 4:
