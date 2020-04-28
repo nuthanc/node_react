@@ -38,3 +38,5 @@
 * It appears as hanging
 * Navigate to localhost:5000
 
+### Express Route Handlers
+* Diagram 1-r: *Router Handler*
