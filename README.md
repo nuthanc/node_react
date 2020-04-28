@@ -47,3 +47,9 @@
 * process.env: Environmental variable
 * Add node version in package.json between main and scripts
 * Add start script
+
+### Installing the Heroku CLI
+* Diagram 16-d: First Time and Subsequent deployments
+* New account in heroku.com
+* Heroku cli via brew tap heroku/brew && brew install heroku
+* heroku -v
