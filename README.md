@@ -40,3 +40,10 @@
 
 ### Express Route Handlers
 * Diagram 1-r: *Router Handler*
+
+### Heroku Deployment Checklist
+* D 17-h: **Deployment Checklist**
+* Diagram 16-d: First Time and Subsequent deployments
+* process.env: Environmental variable
+* Add node version in package.json between main and scripts
+* Add start script
